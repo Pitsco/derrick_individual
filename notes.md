@@ -40,17 +40,40 @@
   
 * Health Problems
   
-  
+  The overuse of mobile devices can be harmful to children’s health. The more they use mobile devices, the less physical activities they do. The problem is that playing games online is combined with snacking, substituting the balanced alimentation. As children spend more time in front of those screens, most of the time in the couch, less time they spend outside playing, running and burning off calories. Over time, those habits can lead to a significant weight gain.
   
 * Online Dangers
   
   <h3> Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School? </h3>
   
+  Dopamine plays a role in how we feel pleasure. It's a big part of our unique human ability to think and plan. It helps us strive, focus, and find things interesting. Though, as we develop more and more dopamine, we start to get very addicted 
+  
 </a>
 
-<h1> 5.2 Notes: Digital Divide </h1>
-![image](https://user-images.githubusercontent.com/89278326/157171657-14cfdd40-c13a-4c0c-a779-e0c80d72befb.png)
-![image](https://user-images.githubusercontent.com/89278326/157171749-94e7034c-3c8a-46ae-b0b5-495f25bd7efd.png)
-![image](https://user-images.githubusercontent.com/89278326/157171764-6a79f88f-177d-4f85-ad67-b7e365d7277f.png)
+   <h1> 5.2 Notes: Digital Divide </h1>
 
+* Poorer or rural areas in America and other countries may have less or little access to Technology
 
+* Some countries may have different or restricted access, for instance China and USA may have divide in service allowed in their countries
+
+* The "digital divide" refers to social, regional, and demographic differences in access to computing equipment and the Internet.
+
+* Individuals and groups can be affected by the digital divide.
+
+* Globally and regionally, the digital gap presents questions of equity, access, and influence.
+
+* Individuals, organizations, and governments all have an impact on the digital divide.
+
+   <h2> GitHub pages action: </h2>
+
+<h3> How does someone empower themself in a digital world? How does someone that is empowered help someone that is not empowered? </h3>
+
+Someone in the digital world could be able to empower themselves by looking for ways to participate in the digital world. Using school chromebooks, for example, if you don't have one, would provide you sufficient access to the digital world, and then getting more aware about technology in general would empower people.
+
+<h3> Describe something you could do at Del Norte HS. Is paper or red tape blocking digital empowerment? </h3>
+
+Someone who is powerful can look for opportunities that people who aren't powerful can take advantage of. This would involve the chromebooks at Del Norte, and someone with authority could guarantee that everyone who does not have the best access to technology makes full use of the chromebooks.
+
+<h3> Are there such barriers at Del Norte? Elsewhere? </h3>
+
+There is red tape everywhere that prevents people from gaining digital empowerment, with the most significant barrier being a lack of funds to do so. Del Norte offers ways to get through this red tape by incorporating technology into classrooms and distributing chromebooks to students who have never had access to the internet before. Other sources also provide possibilities for the underserved, such as having a plethora of options for obtaining old and obsolete technology for empowerment, although this isn't available everywhere.
