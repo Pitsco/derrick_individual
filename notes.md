@@ -47,8 +47,6 @@
   <h3> Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School? </h3>
   
   Dopamine plays a role in how we feel pleasure. It's a big part of our unique human ability to think and plan. It helps us strive, focus, and find things interesting. Though, as we develop more and more dopamine, we start to get very addicted 
-  
-</a>
 
    <h1> 5.2 Notes: Digital Divide </h1>
 
