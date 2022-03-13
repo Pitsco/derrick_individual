@@ -3,8 +3,6 @@
 # Notes
 
 <h1> 5.1 Notes: Beneficial and Harmful Affects </h1>
-
-<a>
   
 * People create computing innovations
   
