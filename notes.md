@@ -73,3 +73,6 @@ Someone who is powerful can look for opportunities that people who aren't powerf
 <h3> Are there such barriers at Del Norte? Elsewhere? </h3>
 
 There is red tape everywhere that prevents people from gaining digital empowerment, with the most significant barrier being a lack of funds to do so. Del Norte offers ways to get through this red tape by incorporating technology into classrooms and distributing chromebooks to students who have never had access to the internet before. Other sources also provide possibilities for the underserved, such as having a plethora of options for obtaining old and obsolete technology for empowerment, although this isn't available everywhere.
+
+# 5.3 Notes: Computing Bias
+
