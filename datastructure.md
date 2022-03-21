@@ -5,7 +5,7 @@
 ## [GitHub](https://github.com/PunarvasuS/DataStructures/)
 ## [Replit](https://replit.com/@DerrickHuang2)
 
-### Code
+### Code TT0
 
 Main.py
 
@@ -130,3 +130,146 @@ for x in matrix:
   print()
 ```
 
+### Code TT1
+
+List Elements with embedded Dictionary
+```
+sub_menu = [
+    ["Factors", None],
+    ["GCD", None],
+    ["LCM", None],
+    ["Primes", None],
+]
+
+random_sub_menu = [
+    ["Random1", None],
+    ["Random2", None],
+    ["Random3", None],
+]
+Lists_sub_menu = [
+    ["Tester", tester],
+    ["Factorial", tester2],
+    ["Fibonacci", fibtester],
+]
+
+# Menu banner is typically defined by menu owner
+border = "=" * 25
+banner = f"\n{border}\nPlease Select An Option\n{border}"
+
+
+# def menu
+# using main_menu list:
+# 1. main menu and submenu reference are created [Prompts, Actions]
+# 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
+def menu():
+    title = "Function Menu" + banner
+    menu_list = main_menu.copy()
+    menu_list.append(["Math", submenu])
+    menu_list.append(["Random", Random_submenu])
+    menu_list.append(["Lists", Lists_submenu])
+    buildMenu(title, menu_list)
+
+# def submenu
+# using sub menu list above:
+# sub_menu works similarly to menu()
+def submenu():
+    title = "Function Submenu" + banner
+    buildMenu(title, sub_menu)
+def Random_submenu():
+    title = "Function Submenu" + banner
+    buildMenu(title, random_sub_menu)
+def Lists_submenu():
+    title = "Function Submenu" + banner
+    buildMenu(title, Lists_sub_menu)
+def buildMenu(banner, options):
+    # header for menu
+    print(banner)
+    # build a dictionary from options
+    prompts = {0: ["Exit", None]}
+    for op in options:
+        index = len(prompts)
+        prompts[index] = op
+
+    # print menu or dictionary
+    for key, value in prompts.items():
+        print(key, '->', value[0])
+
+```
+
+Recursion
+```
+def for_loop():
+  for n in range(len(InfoDb)):
+      print_data(n)
+
+    
+  # hack 2b: def while_loop(0)
+# while loop contains an initial n and an index incrementing statement (n += 1)
+def while_loop(n):
+  while n < len(InfoDb):
+      print_data(n)
+      n += 1
+  return
+
+  # hack 2c : def recursive_loop(0)
+# recursion simulates loop incrementing on each call (n + 1) until exit condition is met
+def recursive_loop(n):
+  if n < len(InfoDb):
+      print_data(n)
+      recursive_loop(n + 1)
+  return # exit condition
+
+def InfoDb_loops():
+  print()
+  print("For loop:")
+  for_loop()
+  print("While loop:")
+  while_loop(0)  # requires initial index to start while
+  print("Recursive loop:")
+  recursive_loop(0)  # requires initial index to start recursion
+  
+# Factorial of a number using recursion
+def recur_factorial(n):
+  if n == 1 or n == 0:
+    return 1
+  else:
+    num = n * recur_factorial(n-1)
+    return num
+
+# this is test driver or code that plays when executed directly, versus import which will not run these statements
+def factorial():
+  num = int(input("Enter a number for factorial: "))
+  # check if the number is negative
+  if num < 0:
+      print("Sorry, factorial does not exist for negative numbers.")
+  else:
+      print("The factorial of", num, "is", recur_factorial(num))
+
+# Hack 3: Fibonacci.  Write a recursive program to create a fibonacci sequence including error handling(with try/except) for invalid input
+```
+Fibonacci
+```
+def fibonacci(n):  
+  if n < 0:
+    print("Please enter a positive integer")
+  elif n == 0:
+    return 0
+  elif n == 1 or n == 2:
+    return 1
+  elif n > 20:
+    print("That's too many numbers, don't input over 20")
+  else:  
+    return(fibonacci(n-1) + fibonacci(n-2))  
+
+def output_fibonacci():
+  # take input from the user  
+  nterms = int(input("How many terms would you like? "))  
+  # check if the number of terms is valid  
+  if nterms <= 0:  
+     print("The Fibonacci sequence does not exist for negative numbers.")  
+  else:  
+     print("Your sequence:")
+     for i in range(nterms):
+         print(fibonacci(i), end=" ")
+  print()
+```
