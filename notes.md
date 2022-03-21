@@ -2,4 +2,4 @@
 
 # Weeks
 
-{% include nweeks.html %}
+{% include weeks.html %}
