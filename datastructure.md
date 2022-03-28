@@ -274,7 +274,7 @@ def output_fibonacci():
   print()
 ```
 
-### Code TT1
+### Code TT2
 
 Factorial
 ```
