@@ -2,10 +2,6 @@
 
 # Week 2: 5.5 and 5.6
 
-# Weeks
-
-{% include weeks.html %}
-
 ## TPT 2.0 Legal and Ethical Concerns 5.5
 Patent: Shows ownership. Can make money
 
