@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 # Week 2: 5.5 and 5.6
 
 ## TPT 2.0 Legal and Ethical Concerns 5.5
