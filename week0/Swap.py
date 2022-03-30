@@ -1,6 +1,6 @@
 def swap():
-    a = int(input("First Number?: "))
-    b = int(input("Second Number?: "))
+    a = int(input("Enter your first number?: "))
+    b = int(input("Enter your second number?: "))
     if a > b:
         print(b,a)
     else:
