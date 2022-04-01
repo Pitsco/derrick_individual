@@ -13,7 +13,7 @@
 **Is this harmful? Was it intended to be harmful or exclude?**
 
 * It is damaging to individuals who are impacted, although it was not intended to be so, and its purpose was to be beneficial rather than harmful.
-* 
+
 **Should it be corrected?**
 
 * I do believe it should be corrected, as the population affected is excluded from the features of the program in the computer.
