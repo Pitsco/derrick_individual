@@ -30,7 +30,13 @@ def trian():
   print("Imperative: The {n2} Term of Triangular Number Sequence is: ")
   print(int(triangular_number(n2)))
   
-
+print("===================================================================")
+  
+  print("OOP: The {n1} term of Triangular Number Sequence is: ")
+  print(tri_of(n1))
+  
+  print("OOP: The {n2} term of Triangular Number Sequence is: ")
+  print(tri_of(n2))
 
 if __name__ == "__main__":
     trian()
