@@ -14,4 +14,4 @@ while n == 1:
     f = obj.palindrome(string)
 
     print(string, f)
-    n = int(input("Press 1 to Try Again!  "))
+    n = int(input("Press 1 to Try Again or Anything Else To Exit!  "))
