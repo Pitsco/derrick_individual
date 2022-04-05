@@ -32,7 +32,8 @@ week1_list = [
 week2_list = [
     ["Factorial OOP", factorial.OOP],
     ["Square", "week2/square.py"], 
-    ["Palindrome", "week2/palindrome.py"]
+    ["Palindrome", "week2/palindrome.py"],
+    ["Triangular", "week2/triangular.py"]
 ]
 
 # Menu banner is typically defined by menu owner
@@ -48,9 +49,9 @@ def menu():
   print()
   title = "Function Menu" + banner
   menu_list = main_menu.copy()
-  menu_list.append(["WEEK 0", week0_func])
-  menu_list.append(["WEEK 1", week1_func])
-  menu_list.append(["WEEK 2", week2_func])
+  menu_list.append(["Static", week0_func])
+  menu_list.append(["Lists", week1_func])
+  menu_list.append(["Math", week2_func])
   buildMenu(title, menu_list)
 
 # def submenu

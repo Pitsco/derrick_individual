@@ -3,11 +3,15 @@ class Factorial:
     self.factSeq = [0, 1]
     
   def __call__(self, n):
+    
     if n < len(self.factSeq):
       return self.factSeq[n]
     else:
       num = n * self(n-1)
       return num
+      # behavior is if and else statements
+      # two recursive calls to self (__call__(self, n))
+
 
 def OOP():
   num_input = int(input("Enter a number for factorial: "))
