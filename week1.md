@@ -1,5 +1,7 @@
 {% include navigation.html %}
 
+{% include weeks.html %}
+
 # 5.3 Notes: Computing Bias
 
 ## Github Page Actions
