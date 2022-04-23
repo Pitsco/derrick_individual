@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # 5.3 Notes: Computing Bias
 
 ## Github Page Actions
