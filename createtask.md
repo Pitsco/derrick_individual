@@ -17,6 +17,8 @@ We will submit a video that is:
 * Less than 30 MB in file size
 * .mp4, .wmv, .avi, or .mov format
 
+[Video Link](https://youtu.be/RnmtPHVrwm4)
+
 ## Idea:
 * No inputs yet
 * List:
