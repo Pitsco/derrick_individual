@@ -10,3 +10,10 @@
 ### Wednesday: Corrections on Quiz 1  
 ### Thursday: Take Proctored AP Exam (Quiz 2)
 ### Friday: Corrections on Quiz 2 
+
+## Week 2 (4/25)
+### Monday: Live Review + Create Study Plan
+### Tuesday: Take the Proctered Test
+### Wednesday: Do Corrections
+### Thursday: Finish Create Task Code
+### Friday: Finish Create Task Writeup
