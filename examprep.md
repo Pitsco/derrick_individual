@@ -17,3 +17,10 @@
 ### Wednesday: Do Corrections
 ### Thursday: Finish Create Task Code
 ### Friday: Finish Create Task Writeup
+
+### Week 3 (5/1)
+### Monday: Finalize Create Task, review carefully and submit
+### Tuesday: Crossover grading, prepare quiz corrections and ticket before class
+### Wednesday: Proctored AP Exam Day 5
+### Thursday: Correct test 5, create ticket for Friday's Crossover grading
+### Friday: Crossover grading, plan to review AP Exam 4 for preparation for AP Exam
